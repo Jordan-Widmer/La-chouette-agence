@@ -436,7 +436,7 @@ nav .caret {
 .btn-d:hover,
 .btn-d:focus {
     color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    background: #303030;
 }
 
 button {
@@ -502,6 +502,7 @@ button {
 
 .scrollToTop span {
     margin-top: 6px;
+    color: #F3976C;
 }
 
 .showScrollTop {
